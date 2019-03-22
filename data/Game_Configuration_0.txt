@@ -1,0 +1,10 @@
+#level
+#0
+#radio	posX	posY	waitTime	direction	rebounds	stopped
+50	93	100	15	DOWN	0	false
+50	385	100	20	DOWN	0	false
+50	223	487	10	UP	0	false
+50	576	493	17	UP	0	false
+50	685	105	8	RIGHT	0	false
+50	91	176	8	RIGHT	0	false
+50	684	278	8	LEFT	0	false

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="userInterface.ScoreWindowController">
+   <children>
+      <ListView fx:id="ScoresListV" layoutX="14.0" layoutY="62.0" prefHeight="327.0" prefWidth="573.0" />
+      <Label layoutX="256.0" layoutY="14.0" text="Hall of Fame" textFill="#f50000">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
